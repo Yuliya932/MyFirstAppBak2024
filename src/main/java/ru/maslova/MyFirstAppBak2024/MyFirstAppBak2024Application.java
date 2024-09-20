@@ -10,5 +10,4 @@ public class MyFirstAppBak2024Application {
 
 		SpringApplication.run(MyFirstAppBak2024Application.class, args);
 	}
-
 }

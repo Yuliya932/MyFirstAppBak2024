@@ -81,5 +81,4 @@ public class HelloController {
         ArrayList<String> hMValues = new ArrayList<>(hm.values());
         return String.format("количество элементов в ArrayList: " + arrayList.size() + " и HashMap: " + hMValues.size());
     }
-
 }
